@@ -1,9 +1,9 @@
-# OOP Cheatsheet by Love Babbar
+# OOP Cheatsheet by E Balgurusamy
 Links and resources for strengthening the concepts of Object Oriented Programming [Java and C++] 
 To the point for Interview Preparation and sufficient for Academics.
 
-Love Babbar CheatSheet : [cheatsheet](https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw) <br>
-Love Babbar Video : [video](https://youtu.be/wWejXusF9qU)
+ cpp oops by E Balgurusamy : [cheatsheet]([https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw](https://www.anandinstitute.org/pdf/Balaguruswamy%20Object%20Oriented%20Programming%20With%20C++%20Fourth%20Edition%20(3).pdf)) <br>
+
 
 ## Useful Links
 
@@ -14,10 +14,10 @@ SNo | Topic | Link | Language |
 
 ## Resources
 
-SNo | Language | Link |
+SNo | Language | source |
 ----|----------|------|
-1 | C++ | [view](https://www.javatpoint.com/cpp-oops-concepts) |
-2 | Java | [view](https://www.javatpoint.com/java-oops-concepts) |
+1 | C++ | E Balguruswamy  |
+
 
 ## Overview 
 
